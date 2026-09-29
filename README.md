@@ -21,10 +21,3 @@ This backend provides a high-speed telemetry processing pipeline built with **Fa
 4. **Self-Healing Imputation:** Automatically intercepts corrupted telemetry frames and reconstructs clean proxy values using SciPy linear interpolation.
 
 ---
-
-## ⚙️ Local Installation & Running
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/raoaryan2005/skyguard-backend.git](https://github.com/raoaryan2005/skyguard-backend.git)
-   cd skyguard-backend
